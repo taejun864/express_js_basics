@@ -15,7 +15,7 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^4.19.2",
-    "express-handlebars": "^7.1.2",
+    "express-handlebars": "^3.0.0",
     "parser": "^0.1.4",
     "pug": "^3.0.2"
   }
